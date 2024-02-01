@@ -10,8 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@huddle01/react": "alpha",
-    "@huddle01/server-sdk": "alpha",
+    "@huddle01/react": "^2.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
